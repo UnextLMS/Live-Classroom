@@ -1,1 +1,21 @@
+[
 
+{
+        "keys": {
+            "UniqueId": "{{$guid}}"
+        },
+        "values": {
+             "target": "All",
+             "courseOfferingName": "Business Economics",
+             "liveClassroomTitle": "Business Economics Discussion",
+             "liveClassroomLink": "www.google.com",
+             "courseOfferingId": "a0B9D000006MGXYUA4",
+             "termId":"a0P9D000001ShN5UAK",
+             "liveClassroomId":"lc33",
+             "programPlanId":"a0K9D000006JZ87UAG",
+             "startDate": "04-14-2022",
+             "startTime": "04-14-2022 04:15:00PM",
+             "action": "Published"
+
+        }
+}
