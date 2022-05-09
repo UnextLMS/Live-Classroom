@@ -28,7 +28,7 @@ Payload to Target specific set of students
         },
         "values": {
              "ContactId": "a0J9D000002rKtiUAE",
-             "Userid":"SF 18 DIGIT ID",
+            
              "liveClassroomTitle": "Business Economics Discussion",
              "liveClassroomLink": "www.google.com",
              "courseOfferingId": "a0B9D000006MGXYUA4",
@@ -36,7 +36,7 @@ Payload to Target specific set of students
              "liveClassroomId":"lc33",
             
              "startDate": "04-18-2022 04:45:00PM",
-             "startTime": "04-18-2022 04:45:00PM",
+            
              "action": "Published",
               "CreatedDate":"Live Classroom Created Date"
 
@@ -55,7 +55,7 @@ Payload to Target specific set of students
         },
         "values": {
              "GroupId": "a0J9D000002rKtiUAE",
-             "Userid":"SF 18 DIGIT ID",
+            
              "liveClassroomTitle": "Business Economics Discussion",
              "liveClassroomLink": "www.google.com",
              "courseOfferingId": "a0B9D000006MGXYUA4",
