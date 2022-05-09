@@ -7,15 +7,15 @@ Payload to Target All students
         },
         "values": {
              "target": "All",
-             "courseOfferingName": "Business Economics",
+             
              "liveClassroomTitle": "Business Economics Discussion",
              "liveClassroomLink": "www.google.com",
              "courseOfferingId": "a0B9D000006MGXYUA4",
-             "termId":"a0P9D000001ShN5UAK",
+             
              "liveClassroomId":"lc33",
-             "programPlanId":"a0K9D000006JZ87UAG",
-             "startDate": "04-14-2022 04:30:00PM",
-             "startTime": "04-14-2022 04:30:00PM",
+            
+             "startDate": "04-14-2022 04:30:00PM", //Update startdate 
+             
              "action": "Edited"
 
         }
@@ -31,16 +31,42 @@ Payload to Target specific set of students
             "UniqueId": "{{$guid}}"
         },
         "values": {
-             "programEnrollmentId": "a0J9D000002rKtiUAE",
-             "courseOfferingName": "Business Economics",
+             "ContactId": "a0J9D000002rKtiUAE",
+            
              "liveClassroomTitle": "Business Economics Discussion",
              "liveClassroomLink": "www.google.com",
              "courseOfferingId": "a0B9D000006MGXYUA4",
-             "termId":"a0P9D000001ShN5UAK",
+            
              "liveClassroomId":"lc33",
-             "programPlanId":"a0K9D000006JZ87UAG",
+            
              "startDate": "04-18-2022 04:45:00PM",
-             "startTime": "04-18-2022 04:45:00PM",
+             
+             "action": "Edited"
+
+        }
+}
+]
+
+
+-----------------------------------------------------------
+Payload to Target specific group
+ [
+
+{
+        "keys": {
+            "UniqueId": "{{$guid}}"
+        },
+        "values": {
+             "GroupId": "a0J9D000002rKtiUAE",
+            
+             "liveClassroomTitle": "Business Economics Discussion",
+             "liveClassroomLink": "www.google.com",
+             "courseOfferingId": "a0B9D000006MGXYUA4",
+            
+             "liveClassroomId":"lc33",
+            
+             "startDate": "04-18-2022 04:45:00PM",
+             
              "action": "Edited"
 
         }
