@@ -1,0 +1,21 @@
+[
+    {
+        "keys": {
+           "UniqueId": "{{$guid}}" //Random Generated Id UUID/GUID
+        },
+        "values": 
+        {
+         "UserId":"a0j9D0000043ey7QAA",
+         "liveClassroomTitle": "Business Economics Discussion",
+         "CourseOfferingId": "SF 18 digit Id",
+         "liveClassroomLink": "www.google.com",
+         "liveClassroomId":"lc33",
+         "Action": "Remainder",
+         "StartDate":"10-05-2022 05:30:00 pm"
+         
+         
+          
+         }
+
+    }
+]
