@@ -28,7 +28,7 @@ Payload to Target specific set of students
         },
         "values": {
              "ContactId": "a0J9D000002rKtiUAE",
-            
+             "UserId" : "5009D0000047Ov3QAE",
              "liveClassroomTitle": "Business Economics Discussion",
              "liveClassroomLink": "www.google.com",
              "courseOfferingId": "a0B9D000006MGXYUA4",
